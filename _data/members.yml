@@ -123,10 +123,11 @@
     - marine data science
     - marine ecology
   
-- name: Tracey Mangin
-  affiliation: Environmental Market Solutions Lab (emLab), UCSB
-  github: traceybit
+- name: Mike Johnson
+  affiliation: Geography Department, UCSB / NOAA-Affiliate
+  github: mikejohnson51
   interests:
-    - data science
-    - sandwiches
+    - hydrologic Modelling hydrofabrics
+    - environmental data
+    - raster/vector data models
 
